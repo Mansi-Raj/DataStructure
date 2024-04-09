@@ -1,5 +1,6 @@
 package Strings;
 import java.util.*;
+
 public class QI1108 {
     public String defangIPaddr(String address) {
         String newAddress=address.replace(".", "[.]");
