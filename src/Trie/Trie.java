@@ -1,4 +1,4 @@
-package src.Trie;
+package Trie;
 
 //prefix-tree quetion leetcode
 public class Trie {
